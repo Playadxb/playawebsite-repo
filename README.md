@@ -1,5 +1,10 @@
 #Read First
 
+## Subheader
+
+## Local Development
+
+1. Open index.html in your browser.
 
 Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
